@@ -1,0 +1,10 @@
+.history/
+dist/
+angular.json
+karma.conf.js
+package.json
+proxy.*.json
+.eslintrc.json
+tsconfig.json
+tsconfig.*.json
+ng-package.json
