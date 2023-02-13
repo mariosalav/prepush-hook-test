@@ -8,6 +8,5 @@
   "bracketSpacing": true,
   "trailingComma": "none",
   "htmlWhitespaceSensitivity": "ignore",
-  "bracketSameLine": true,
-  "multilineArrayWrapThreshold": 1
+  "bracketSameLine": true
 }
