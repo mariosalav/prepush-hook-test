@@ -16,6 +16,7 @@ export class AppComponent {
 
     
 
+    
     console.log(this.obj["name"]);
   }
 }
