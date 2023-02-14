@@ -7,12 +7,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'prepush-hook-angular';
+  obj = {
+    name: "Mario"
+  }
 
   myTest(){
     debugger
 
     
-    
-    console.log('test');
+
+    console.log(this.obj["name"]);
   }
 }
