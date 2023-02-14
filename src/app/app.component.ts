@@ -15,8 +15,9 @@ export class AppComponent {
     debugger
 
     
-
     
+
+
     console.log(this.obj["name"]);
   }
 }
