@@ -10,6 +10,7 @@ export class AppComponent {
 
   myTest(){
     debugger
+    
     console.log('test');
   }
 }
