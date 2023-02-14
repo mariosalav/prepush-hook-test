@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'prepush-hook-angular';
+
+  myTest(){
+    debugger
+    console.log('test');
+  }
 }
