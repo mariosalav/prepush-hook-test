@@ -12,6 +12,7 @@ export class AppComponent {
   };
 
   myTest() {
+    debugger;
     console.log(this.obj.name);
   }
 }
