@@ -12,6 +12,6 @@ export class AppComponent {
   };
 
   myTest() {
-    console.log(this.obj.name);
+    console.log(this.obj['name']);
   }
 }
